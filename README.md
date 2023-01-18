@@ -1,0 +1,1 @@
+# angular-husky-eslint-prettier-config
